@@ -1,0 +1,9 @@
+C:\Users\alan.wu13\Desktop\KataTest\KataTest\KataTest\bin\Debug\KataTest.dll
+C:\Users\alan.wu13\Desktop\KataTest\KataTest\KataTest\bin\Debug\KataTest.pdb
+C:\Users\alan.wu13\Desktop\KataTest\KataTest\KataTest\bin\Debug\nunit.framework.dll
+C:\Users\alan.wu13\Desktop\KataTest\KataTest\KataTest\bin\Debug\nunit.framework.xml
+C:\Users\alan.wu13\Desktop\KataTest\KataTest\KataTest\obj\Debug\KataTest.csprojAssemblyReference.cache
+C:\Users\alan.wu13\Desktop\KataTest\KataTest\KataTest\obj\Debug\KataTest.csproj.CoreCompileInputs.cache
+C:\Users\alan.wu13\Desktop\KataTest\KataTest\KataTest\obj\Debug\KataTest.csproj.CopyComplete
+C:\Users\alan.wu13\Desktop\KataTest\KataTest\KataTest\obj\Debug\KataTest.dll
+C:\Users\alan.wu13\Desktop\KataTest\KataTest\KataTest\obj\Debug\KataTest.pdb
