@@ -48,6 +48,8 @@
     <Compile Include="Kata No.1 String average\SampleTest.cs" />
     <Compile Include="Kata No.2 Dead Ants\MySolution.cs" />
     <Compile Include="Kata No.2 Dead Ants\SampleTest.cs" />
+    <Compile Include="Kata No.3 Band name generator\MySolution.cs" />
+    <Compile Include="Kata No.3 Band name generator\SampleTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
